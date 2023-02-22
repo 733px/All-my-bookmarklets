@@ -1,0 +1,1 @@
+javascript:alert('Made By 733px'); (function() {     var val= prompt("Enter url","tiktok.com");     if (val)         location="http://welovegatos.com/wp-content/plugins/super-links/application/helpers/super-links-proxy.php?"+escape(val);})()
